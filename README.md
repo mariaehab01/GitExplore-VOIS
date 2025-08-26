@@ -1,4 +1,4 @@
-![App Icon](GitExplore/Res/Assets.xcassets/AppIcon.png)
+<img width="1024" height="1024" alt="GitExplore_icon" src="https://github.com/user-attachments/assets/e477a52c-276c-4c01-8aba-c12db34e530b" />
 
 # GitExplore
 
