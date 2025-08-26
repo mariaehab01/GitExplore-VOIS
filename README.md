@@ -1,4 +1,4 @@
-<img width="1024" height="1024" alt="GitExplore_icon" src="https://github.com/user-attachments/assets/e477a52c-276c-4c01-8aba-c12db34e530b" />
+<img width="512" height="512" alt="GitExplore_icon" src="https://github.com/user-attachments/assets/e477a52c-276c-4c01-8aba-c12db34e530b" />
 
 # GitExplore
 
