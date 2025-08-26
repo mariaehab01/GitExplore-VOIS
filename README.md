@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="Assets/AppIcon.png" alt="GitExplore Logo" width="128">
-</p>
+![GitExplore Logo](Assets/AppIcon.png)
 
 # GitExplore (iOS)
 
@@ -43,7 +41,4 @@ Filters, infinite scrolling, rich user profiles, SwiftData favorites, and an ele
 - **SafariServices** for in-app GitHub pages
 - **Lottie** for the splash animation
 
----
-
-## 🗂 Project Structure
 
