@@ -1,15 +1,15 @@
-![GitExplore Logo](Assets/AppIcon.png)
+![App Icon](GitExplore/Res/Assets.xcassets/AppIcon.appiconset/AppIcon~ios-marketing.png)
 
-# GitExplore (iOS)
+# GitExplore
 
 Explore GitHub users and repositories with a fast, modern SwiftUI experience.  
-Filters, infinite scrolling, rich user profiles, SwiftData favorites, and an elegant Lottie-powered splash.
+Filters, infinite scrolling, rich user profiles and SwiftData favorites.
 
 >  **Graduation Project** — Built as part of my internship as a **Mobile Developer** in the **Explore Program at VOIS**.
 
 ---
 
-## ✨ Features
+## Features
 
 - **Home**
   - Domain toggle: **Users / Repositories**
@@ -28,11 +28,10 @@ Filters, infinite scrolling, rich user profiles, SwiftData favorites, and an ele
   - Custom **gradient theme**
   - **Custom tab bar** with selection highlight
   - **Lottie** animated splash screen
-  - Subtle cards, shadows, and readable typography
 
 ---
 
-## 🧱 Tech Stack
+## Tech Stack
 
 - **SwiftUI** for UI
 - **SwiftData** for local persistence (Favorites)
