@@ -1,4 +1,4 @@
-![App Icon](GitExplore/Res/Assets.xcassets/AppIcon.appiconset/AppIcon~ios-marketing.png)
+![App Icon](GitExplore/Res/Assets.xcassets/AppIcon.png)
 
 # GitExplore
 
